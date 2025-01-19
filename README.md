@@ -93,3 +93,5 @@ AI-IDPS/
 - Improved scalability to support larger network environments.
 - Dynamic model retraining for better adaptability.
 
+## Please note that my trianing model file in large size that cross the limit of github so i can't upload them but i upload all other  files 
+
